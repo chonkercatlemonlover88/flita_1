@@ -1,0 +1,3 @@
+C:/Users/marty/CLionProjects/Martynov_Matvey_IU4-23B_HW_4/flita/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/marty/CLionProjects/Martynov_Matvey_IU4-23B_HW_4/flita/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marty/CLionProjects/Martynov_Matvey_IU4-23B_HW_4/flita/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
